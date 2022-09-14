@@ -1,2 +1,2 @@
 # mycourse
-##git/github
+## git/github
